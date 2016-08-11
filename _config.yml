@@ -6,9 +6,9 @@ color:
   saturation: 0.9526999390218407
   rhythmicContrast: 0.33579118736088276
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FEFEFE'
+    - '#BBCBE2'
+    - '#24251F'
+    - '#575C79'
+    - '#A08751'
 name: 4wdCamperHireDarwin
