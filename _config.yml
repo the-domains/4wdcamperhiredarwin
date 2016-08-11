@@ -1,4 +1,3 @@
-layout_spectrum: 0.6800002672243863
 typography_spectrum: 0.5349969861563295
 color:
   brandStrength: 0.02799650630913675
@@ -6,9 +5,11 @@ color:
   saturation: 0.9526999390218407
   rhythmicContrast: 0.33579118736088276
   brandColors:
-    - '#FEFEFE'
-    - '#BBCBE2'
-    - '#24251F'
-    - '#575C79'
-    - '#A08751'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.6800002672243863
 name: 4wdCamperHireDarwin
+title: Timeless Travel
